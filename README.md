@@ -1,1 +1,2 @@
 # proba
+# böngészőből javitotam
